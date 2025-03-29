@@ -1,6 +1,6 @@
 # Go Design Patterns Guide 📘
 
-![Go Version](https://img.shields.io/badge/Go-%3E%3D%201.22-blue)
+![Go Version](https://img.shields.io/badge/Go-%3E%3D%201.24-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
